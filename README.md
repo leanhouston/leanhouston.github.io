@@ -10,4 +10,4 @@ This site is generated using [Middleman](http://middlemanapp.com/) and hosted, o
 
 Awesome banner image modified from a photo by [Eric Yount](https://www.flickr.com/photos/sanlouee/).
 
-Background downloaded from [Subtle Patterns](www.subtlepatterns.com).
+Background downloaded from [Subtle Patterns](http://www.subtlepatterns.com).
